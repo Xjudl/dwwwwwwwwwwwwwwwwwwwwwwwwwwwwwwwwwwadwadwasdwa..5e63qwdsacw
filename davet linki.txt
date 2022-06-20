@@ -1,0 +1,2 @@
+https://discord.com/oauth2/authorize?client_id=988179250047754290&scope=bot&permissions=8
+---------------------------------------Snake Bot-----------------------------------------
